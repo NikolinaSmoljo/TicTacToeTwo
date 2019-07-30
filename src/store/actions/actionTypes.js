@@ -1,0 +1,1 @@
+export const INIT_USER_INPUT = 'INIT_USER_INPUT';
